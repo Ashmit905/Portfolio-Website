@@ -9,6 +9,10 @@ npm install
 npm run dev
 ```
 
+## Deployed Link
+
+https://portfolio-website-nu-ruby.vercel.app/projects
+
 Open [http://localhost:5173](http://localhost:5173).
 
 ## Build for production
@@ -18,3 +22,4 @@ npm run build
 ```
 
 Output goes to the `dist/` folder. For SPA routing, configure your host to serve `index.html` for all routes (e.g. Vercel, Netlify, GitHub Pages SPA fallback).
+
