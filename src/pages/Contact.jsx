@@ -15,10 +15,6 @@ export default function Contact() {
               <span className="contact-label">Email</span>
               <span className="contact-value">reachashmitsharma@gmail.com</span>
             </a>
-            <a href="tel:+13654400924" className="contact-item">
-              <span className="contact-label">Phone</span>
-              <span className="contact-value">365-440-0924</span>
-            </a>
             <a href="https://www.linkedin.com/in/reachashmit/" target="_blank" rel="noopener noreferrer" className="contact-item">
               <span className="contact-label">LinkedIn</span>
               <span className="contact-value">linkedin.com/in/reachashmit</span>

@@ -5,8 +5,6 @@ import Footer from './Footer'
 import ParticleCanvas from './ParticleCanvas'
 import SpaceBackground from './SpaceBackground'
 import StarfighterCanvas from './StarfighterCanvas'
-import ThemeSwitcher from './ThemeSwitcher'
-
 export default function Layout({ children }) {
   const location = useLocation()
 
@@ -15,7 +13,6 @@ export default function Layout({ children }) {
       <SpaceBackground />
       <StarfighterCanvas />
       <ParticleCanvas />
-      <ThemeSwitcher />
       <Header />
       <Nav currentPath={location.pathname} />
       <main>{children}</main>
