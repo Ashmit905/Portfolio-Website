@@ -32,7 +32,7 @@ body {
 }
 
 a {
-  color: var(--accent);
+  color: #ffffff;
   text-decoration: none;
   transition: color 0.2s ease;
 }
@@ -175,8 +175,8 @@ main {
 }
 
 .nav-link.active {
-  color: var(--accent);
-  background: var(--accent-dim);
+  color: #ffffff;
+  background: var(--accent);
 }
 
 /* ===== Footer ===== */
@@ -195,6 +195,10 @@ main {
   justify-content: center;
   gap: 1.5rem;
   margin-bottom: 1rem;
+}
+
+.footer-links a {
+  color: #ffffff;
 }
 
 .footer-links a:hover {
