@@ -41,6 +41,12 @@ a:hover {
   color: var(--accent-hover);
 }
 
+.footer-links a,
+.contact-links a,
+.project-link {
+  color: #ffffff;
+}
+
 #root {
   min-height: 100vh;
   display: flex;
