@@ -175,8 +175,8 @@ main {
 }
 
 .nav-link.active {
-  color: var(--accent);
-  background: var(--accent-dim);
+  color: #ffffff;
+  background: var(--accent);
 }
 
 /* ===== Footer ===== */
