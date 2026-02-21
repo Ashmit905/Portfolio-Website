@@ -32,13 +32,17 @@ body {
 }
 
 a {
-  color: var(--accent);
+  color: #ffffff;
   text-decoration: none;
   transition: color 0.2s ease;
 }
 
 a:hover {
   color: var(--accent-hover);
+}
+
+.footer-links a {
+  color: #ffffff;
 }
 
 #root {
