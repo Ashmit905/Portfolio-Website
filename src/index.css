@@ -201,7 +201,12 @@ main {
   color: #ffffff;
 }
 
+.footer-links a {
+  color: #ffffff;
+}
+
 .footer-links a:hover {
+  color: #ffffff;
   text-decoration: underline;
 }
 
